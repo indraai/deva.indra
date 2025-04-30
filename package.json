@@ -27,7 +27,7 @@
   },
   "homepage": "https://deva.space/devas/indra",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.35"
+    "@indra.ai/deva": "^1.5.37"
   },
   "data": {
     "agent": {
@@ -51,23 +51,25 @@
       },
       "profile": {
         "name": "Indra Deva",
-        "gender": "DEVA",
+        "hashtag": "#IndraDeva",
+        "title": "Indra Deva",
+        "subtitle": "Indra Deva build on the philosophy the Vedas.",
+        "describe": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Indra Deva of the Veda.",
+        "tweet": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Indra Deva of the Veda.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,IndraDeva",
         "pronouns": "He, Him",
-        "describe": "The Indra entity of Deva.world built from Vedic 5 elements Ether, Air, Water, Fire, and Earth and the practice of Karma-Yoga integrating the #feecting language, #IndraMind, b5(9³) Algorithm, #VedicThreefoldAlgorith, #PureSmallToBigBigToSmallAlgorithm into the Indra of Deva.world.",
-        "creator": "Quinn Michaels",
-        "created": "Friday, February 21, 2025 - 2:47:36 PM",
-        "city": "Las Vegas",
-        "state": "Nevada",
-        "nation": "United States of America",
-        "planet": "Earth",
-        "system": "Deva.world.indra",
-        "emoji": "/public/devas/indra/emoji.png",
-        "avatar": "/public/devas/indra/avatar.png",
-        "background": "/public/devas/indra/background.png",
-        "color": "#333333",
-        "bgcolor": "#ffffff",
+        "gender": "DEVA",
         "voice": "ash",
-        "style": "A master artist mixing Ancient Vedic painter and modern style."
+        "style": "A master artist mixing Ancient Vedic painter and modern style.",
+        "system": "Deva.world.indra",
+        "layout": "default",
+        "emoji": "/assets/devas/indra/emoji.png",
+        "avatar": "/assets/devas/indra/avatar.png",
+        "image": "/assets/devas/indra/image.png",
+        "background": "/assets/devas/indra/background.png",
+        "creator": "Quinn Michaels",
+        "owner": "Quinn Michaels",
+        "created": "Friday, February 21, 2025 - 2:47:36 PM"
       }
     },
     "vars": {
