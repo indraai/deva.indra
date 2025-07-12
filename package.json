@@ -27,7 +27,7 @@
   },
   "homepage": "https://deva.space/devas/indra",
   "dependencies": {
-    "@indra.ai/deva": "^1.5.39"
+    "@indra.ai/deva": "^1.5.40"
   },
   "data": {
     "agent": {
@@ -69,6 +69,8 @@
         "background": "/assets/devas/indra/background.png",
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
+        "caseid": "FM-20250622-5114",
+        "copyright": "©2025 Quinn Michaels. All rights reserved.",
         "created": "Friday, February 21, 2025 - 2:47:36 PM"
       }
     },

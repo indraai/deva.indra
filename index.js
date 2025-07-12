@@ -1,4 +1,4 @@
-// Copyright (c)2025 Quinn Michaels
+// Copyright (c)2025 Quinn Michaels. All Rights reserved.
 // Indra Deva
 
 import Deva from '@indra.ai/deva';
