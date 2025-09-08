@@ -1,10 +1,24 @@
 {
-  "id": 2786414868244,
+  "id": 58525635100044782682,
   "name": "@indra.ai/deva.indra",
   "version": "0.0.34",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "2025",
+  "license": "VLA:43837304493757637537 LICENSE.md",
+  "author": {
+    "name": "Quinn A Michaels",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "(c)2025 Quinn A Michaels; All rights reserved.",
   "description": "The Indra Deva ensuring Quinn Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -25,13 +39,13 @@
   "bugs": {
     "url": "https://github.com/indraai/deva.indra/issues"
   },
-  "homepage": "https://deva.space/devas/indra",
+  "homepage": "https://indra.ai",
   "dependencies": {
     "@indra.ai/deva": "^1.6.9"
   },
   "data": {
     "agent": {
-      "id": "6567016369474",
+      "id": "27666629500561169294",
       "key": "indra",
       "prompt": {
         "emoji": "👑",
@@ -50,8 +64,9 @@
         }
       },
       "profile": {
+        "id": "21056001803849806828",
         "name": "Indra Deva",
-        "hashtag": "#IndraDeva",
+        "hashtag": "#Indra",
         "title": "Indra Deva",
         "subtitle": "Indra Deva build on the philosophy the Vedas.",
         "describe": "Built from 5 elements Ether, Air, Water, Fire, and Earth to model Indra Deva of the Veda.",
@@ -63,15 +78,15 @@
         "style": "A master artist mixing Ancient Vedic painter and modern style.",
         "system": "Deva.world.indra",
         "layout": "default",
-        "emoji": "/assets/devas/indra/emoji.png",
-        "avatar": "/assets/devas/indra/avatar.png",
-        "image": "/assets/devas/indra/image.png",
-        "background": "/assets/devas/indra/background.png",
-        "creator": "Quinn Michaels",
-        "owner": "Quinn Michaels",
-        "caseid": "FM-20250622-5114",
+        "emoji": "/assets/emoji.png",
+        "avatar": "/assets/avatar.png",
+        "image": "/assets/image.png",
+        "background": "/assets/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
         "copyright": "©2025 Quinn Michaels. All rights reserved.",
-        "created": "Friday, February 21, 2025 - 2:47:36 PM"
+        "created": "Friday, February 21, 2025 - 2:47:36 PM",
+        "modified": "Sunday, September 7, 2025 - 8:32:46 PM"
       }
     },
     "vars": {

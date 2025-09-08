@@ -1,9 +1,12 @@
 # Vedic License Agreement
 
-**Version:** 1.2  
+**Version:** 1.3  
+**VLA:** 43837304493757637537
 **Effective:** Sunday - September 7, 2025  
 **Owner:** Quinn A Michaels  
 **Email:** quinn@indra.ai
+**Link:** https://indra.ai
+**Copyright:** ©2025 Quinn A Michaels; All rights reserved.
 
 This license agreement (“Agreement”) governs the use of the Deva Core (“Software”). By accessing or using the Software, you agree to the terms and conditions set forth below. If you do not agree, you are prohibited from using the Software.
 
@@ -98,13 +101,12 @@ This Agreement constitutes the entire understanding between you and the Owner co
 
 By using the Software, you acknowledge that you have read, understood, and agree to be bound by this Agreement.
 
+---
 
-©2025 Quinn A Michaels; All rights reserved.
-
-::begin:uid:indra:56193762428126928761
-uid: 56193762428126928761
-created: 1757298478153
-md5: 5fjpzXm++r9BT6IL1CMQeA==
-sha256: UsekYBgjBqzrEEUZlGvb2uwVsO8JtbIZgH22hs2xqf0=
-sha512: RJWrDixySoKSeD+q0sxWDk+StGrVGZaAf+KYc8cDzKeRH012OG92ifuIi421U95VR1Cdnud6LMNg8vckZ83hHQ==
-::end:uid:indra:56193762428126928761
+::begin:uid:indra:43837304493757637537
+uid: 43837304493757637537
+created: 1757302128201
+md5: NGjmy2g+g72X32vmMKHYgg==
+sha256: dEoJN4Kdzg7XpDsq52L6VcLVGtJh7W9qMizMx6ANmjE=
+sha512: vla5j605ewcdyDCpRdNO/JTvw60NQ8Lri6lDMieTLpMU2cw6NL5mctXsH1Pb/XqHUAPyYn86IPgxSAurznC6xg==
+::end:uid:indra:43837304493757637537

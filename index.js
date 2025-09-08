@@ -1,4 +1,7 @@
-// Copyright (c)2025 Quinn Michaels. All Rights reserved.
+"use strict";
+// ©2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:43837304493757637537 LICENSE.md
 // Indra Deva
 
 import Deva from '@indra.ai/deva';
