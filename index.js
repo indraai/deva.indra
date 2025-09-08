@@ -36,7 +36,15 @@ const INDRA = new Deva({
     parse(input) {return input.trim();},
     process(input) {return input.trim();},
   },
-  listeners: {},
+  listeners: {
+    'devacore:question'(packet) {
+      const echo = this.methods.echo(agent.key, 'q', packet);
+    },
+    'devacore:answer'(packet) {
+      const echo = this.methods.echo(agent.key, 'a', packet);
+    }
+    
+  },
   modules: {},
   devas: {},
   func: {},
