@@ -2,18 +2,20 @@
   "id": 58525635100044780000,
   "name": "@indra.ai/deva.indra",
   "version": "0.0.43",
-  "license": "VLA:43837304493757637537 LICENSE.md",
+  "license": "VLA:25561923165034663648 LICENSE.md",
   "VLA": {
-    "uid": 43837304493757640000,
-    "created": 1757302128201,
-    "md5": "NGjmy2g+g72X32vmMKHYgg==",
-    "sha256": "dEoJN4Kdzg7XpDsq52L6VcLVGtJh7W9qMizMx6ANmjE=",
-    "sha512": "vla5j605ewcdyDCpRdNO/JTvw60NQ8Lri6lDMieTLpMU2cw6NL5mctXsH1Pb/XqHUAPyYn86IPgxSAurznC6xg=="
+    "uid": 25561923165034663648,
+    "time": 1757419157577,
+    "date": "Tuesday, September 9, 2025 - 4:59:17 AM",
+    "md5": "c9Ma7DfGtzNfty2yT8DCiQ==",
+    "sha256": "GFQCdWHBoH5FTG1xN15VnY8XijFmMFEK/eQcyts8+T0=",
+    "sha512": "ZsXT/ajw90/UxCK+TxjLW4LCggqWwO0z5fd0hRnIG7h3FeWRCjs8N6nEF7cecavV74Zbrkzb9I/FIRn7NTTkDQ=="
   },
   "author": {
     "name": "Quinn A Michaels",
     "email": "quinn@indra.ai",
-    "url": "https://indra.ai/"
+    "url": "https://indra.ai/",
+    "company": "Inside The Net, Inc."
   },
   "funding": [
     {
@@ -105,7 +107,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "⭐️ Ready!"
+        "ready": "⭐️ READY!"
       },
       "live": {
         "profile": "deva",

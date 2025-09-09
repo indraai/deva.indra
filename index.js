@@ -1,7 +1,7 @@
 "use strict";
 // ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:43837304493757637537 LICENSE.md
+// Distributed under VLA:25561923165034663648 LICENSE.md
 // Indra Deva
 
 import Deva from '@indra.ai/deva';
@@ -38,10 +38,10 @@ const INDRA = new Deva({
   },
   listeners: {
     'devacore:question'(packet) {
-      const echo = this.methods.echo(agent.key, 'q', packet);
+      this.methods.echo(agent.key, 'q', packet);
     },
     'devacore:answer'(packet) {
-      const echo = this.methods.echo(agent.key, 'a', packet);
+      this.methods.echo(agent.key, 'a', packet);
     }
     
   },
@@ -49,7 +49,18 @@ const INDRA = new Deva({
   devas: {},
   func: {},
   methods: {},
-  onReady(data, resolve) {
+  async onInit(data, resolve) {
+    // check license
+    const {personal} = this.license(); // get the license config
+    this.vars.license = await this.methods.license_check(personal, pkg.VLA);
+    if (this.vars.license) {
+      return this.start(data, resolve); // start load if license valid
+    }
+    else {       
+      return  this.stop(data, resolve); // stop load if license is invalid.
+    }
+  },
+  async onReady(data, resolve) {
     const {concerns, global, personal} = this.license(); // get the license config
     this.vars.license = this.methods.license_check(personal, pkg.VLA);
     
