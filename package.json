@@ -3,6 +3,13 @@
   "name": "@indra.ai/deva.indra",
   "version": "0.0.41",
   "license": "VLA:43837304493757637537 LICENSE.md",
+  "VLA": {
+    "uid": "43837304493757637537",
+    "created": 1757302128201,
+    "md5": "NGjmy2g+g72X32vmMKHYgg==",
+    "sha256": "dEoJN4Kdzg7XpDsq52L6VcLVGtJh7W9qMizMx6ANmjE=",
+    "sha512": "vla5j605ewcdyDCpRdNO/JTvw60NQ8Lri6lDMieTLpMU2cw6NL5mctXsH1Pb/XqHUAPyYn86IPgxSAurznC6xg=="
+  },
   "author": {
     "name": "Quinn A Michaels",
     "email": "quinn@indra.ai",

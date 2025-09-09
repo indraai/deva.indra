@@ -50,6 +50,9 @@ const INDRA = new Deva({
   func: {},
   methods: {},
   onReady(data, resolve) {
+    const {concerns, global, personal} = this.license(); // get the license config
+    this.vars.license = this.methods.license_check(personal, pkg.VLA);
+    
     this.prompt(this.vars.messages.ready);
     return resolve(data);
   },
