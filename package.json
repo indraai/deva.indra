@@ -4,7 +4,7 @@
   "version": "0.0.42",
   "license": "VLA:43837304493757637537 LICENSE.md",
   "VLA": {
-    "uid": "43837304493757637537",
+    "uid": 43837304493757637537,
     "created": 1757302128201,
     "md5": "NGjmy2g+g72X32vmMKHYgg==",
     "sha256": "dEoJN4Kdzg7XpDsq52L6VcLVGtJh7W9qMizMx6ANmjE=",
@@ -52,7 +52,7 @@
   },
   "data": {
     "agent": {
-      "id": "27666629500561169294",
+      "id": 27666629500561169294,
       "key": "indra",
       "prompt": {
         "emoji": "👑",
@@ -71,7 +71,7 @@
         }
       },
       "profile": {
-        "id": "21056001803849806828",
+        "id": 21056001803849806828,
         "name": "Indra Deva",
         "hashtag": "#Indra",
         "title": "Indra Deva",
