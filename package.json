@@ -50,14 +50,14 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.63"
+    "@indra.ai/deva": "^1.6.64"
   },
   "data": {
     "agent": {
       "id": 27666629500561170000,
       "key": "indra",
       "prompt": {
-        "emoji": "👑",
+        "emoji": "⚡️",
         "text": "Indra",
         "colors": {
           "label": {
@@ -107,7 +107,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "⭐️ READY!"
+        "ready": "🙏 Ready for Vedic Offerings."
       },
       "live": {
         "profile": "deva",
