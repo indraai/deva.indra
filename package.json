@@ -1,21 +1,21 @@
 {
-  "id": "43264443081827827517",
+  "id": "46962689386148347494",
   "name": "@indra.ai/deva.indra",
   "version": "0.0.96",
-  "license": "VLA:43264443081827827517 LICENSE.md",
+  "license": "VLA:46962689386148347494 LICENSE.md",
   "VLA": {
-    "uid": "43264443081827827517",
-    "time": 1757876569149,
-    "date": "Sunday, September 14, 2025 - 12:02:49 PM",
-    "client": "DrDadce1mxTgdYp4OqRcBnOEBgiwGBgxce/oH4IyHFc=",
-    "agent": "rkF0sJwm+ZJoBiOxHoFJ7XyKX1xjw4NrkKVh1t63uco=",
-    "pkg": "A3axwOo9bPsQsRdrh0SPVzs1CSaHsnAFmWuRwX6pp38=",
-    "machine": "AVlFq7TGcWr4ojPNN1yj/AAskSRP6vnWgZGVMpshqD0=",
-    "warning": "⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.",
-    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "l3Zv30zhu8gh959wsM10YA==",
-    "sha256": "l7RzcdjQbmnHDvlYCqLYYcARDfYPBK+Uyfd0QUQICtc=",
-    "sha512": "zE8lg2Y7Rx2H9H5KlcGNzWdY2sFGNTL7WiAvrtVGhV+zoPNkuY3ln41YtNhnOH4o6j62kqWLaVRCz8MFKEQ2jw=="
+    "uid": "46962689386148347494",
+    "time": 1758396650592,
+    "date": "Saturday, September 20, 2025 - 12:30:50 PM",
+    "client": "BeqqTomnO0OgcMc3awWznhlYHXzrJZMlKFJKW5XXTik=",
+    "agent": "2qsWF6pTnsYx0gMAhJyo+4wtI7DCuMzEAfd1fDtkr6E=",
+    "core": "/4qaz4nUYW0trAiLReyHp+geBdfs8+lCE5OwCz8R/Ro=",
+    "machine": "CKngZPvzmgB3aZFgzTntnjds+Z9p5iWjrpyj4nfikXE=",
+    "warning": "⚠️ Unlawful use of Quinn A Michaels Technology and Intellectual Property Signals Voluntary Consent to Forfeit all Coins, Cash, Currency, Assets, Wealth, Property, Holdings, Companies, Stocks, Bonds, Funds, Trusts, and Cryptocurrency to Quinn A Michaels tax-free. All Lawful Taxes and Fines Owed are the Responsibility of the Unlawful Party.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "RQ3kKrpltpBpvgCU06L+wQ==",
+    "sha256": "WeI82Aizl4PeKVmjLP8YOf71Uv+YDObAMgI/An0mUTA=",
+    "sha512": "btoKMAxY0ubj3BGgmXxFu66xDzSVveSemq9ljG3LK1QKeQXqjHg0aVXMIGy+I9hZ3f4UJXaBq20qf4fpBbfsmw=="
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +33,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "(c)2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Indra Deva ensuring Quinn Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -49,7 +49,9 @@
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc."
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.indra/issues"
@@ -60,7 +62,7 @@
   },
   "data": {
     "agent": {
-      "id": 27666629500561170000,
+      "id": "26911367364316064730",
       "key": "indra",
       "prompt": {
         "emoji": "⚡️",
@@ -79,7 +81,7 @@
         }
       },
       "profile": {
-        "id": 21056001803849806000,
+        "id": "45855815978062530087",
         "name": "Indra Deva",
         "hashtag": "#Indra",
         "title": "Indra Deva",
