@@ -51,14 +51,16 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.indra/issues"
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.19.0"
+    "@indra.ai/deva": "^1.20.1"
   },
   "data": {
     "agent": {
@@ -82,7 +84,7 @@
       },
       "profile": {
         "id": "45855815978062530087",
-        "name": "Indra Deva",
+        "name": "Indra",
         "hashtag": "#Indra",
         "title": "Indra Deva",
         "subtitle": "Indra Deva build on the philosophy the Vedas.",
@@ -95,15 +97,15 @@
         "style": "A master artist mixing Ancient Vedic painter and modern style.",
         "system": "Deva.world.indra",
         "layout": "default",
-        "emoji": "/assets/emoji.png",
-        "avatar": "/assets/avatar.png",
-        "image": "/assets/image.png",
-        "background": "/assets/background.png",
+        "emoji": "/devas/indra/emoji.png",
+        "avatar": "/devas/indra/avatar.png",
+        "image": "/devas/indra/image.png",
+        "background": "/devas/indra/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "copyright": "©2025 Quinn Michaels. All rights reserved.",
-        "created": "Friday, February 21, 2025 - 2:47:36 PM",
-        "modified": "Sunday, September 7, 2025 - 8:32:46 PM"
+        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
+        "warning": "⚠️ Rejecting those who disregard his worship. Hence many a one worships the might of Indra. Indra, with our songs of praise with reverence let us worship mighty Indra, great and sublime, eternal, ever youthful. Whose greatness the dear world-halves have not measured, no, nor conceived the might of him the Holy.",
+        "created": "Friday, February 21, 2025 - 2:47:36 PM"
       }
     },
     "vars": {
