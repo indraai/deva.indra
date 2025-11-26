@@ -5,7 +5,7 @@
 
 
 ::BEGIN:MAIN
-# {{agent.name}}
+# {{profile.name}}
 
 {{profile}}
 
@@ -13,6 +13,5 @@ const: #Pretas = Those who delight in doing hurt, those who eat forbidden, creat
 
 const: #Brahmarakshasas = Those who have stolen the property of a Brahmana become Brahmarakshasas.
 
-
-copyright: ©2025 Quinn Michaels
+copyright: {{profile.copyright}}
 ::END:MAIN

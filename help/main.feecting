@@ -12,6 +12,6 @@
 #color = {{profile.color}}
 #bgcolor = {{profile.bgcolor}}
 #bg = {{profile.background}}
-copyright: (c)2025 Quinn Michaels
+copyright: {{profile.copyright}}
 ::end:hidden
 ::END:MAIN

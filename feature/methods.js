@@ -4,7 +4,6 @@
 // Distributed under VLA:32925808114448417950 LICENSE.md
 // Wednesday, November 26, 2025 - 8:23:24 AM
 
-
 export default {
   /**************
   method: indra
