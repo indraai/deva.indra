@@ -1,21 +1,16 @@
 {
-  "id": "46962689386148347494",
+  "id": "32925808114448417950",
   "name": "@indra.ai/deva.indra",
   "version": "0.8.0",
-  "license": "VLA:46962689386148347494 LICENSE.md",
+  "license": "VLA:32925808114448417950 LICENSE.md",
   "VLA": {
-    "uid": "46962689386148347494",
-    "time": 1758396650592,
-    "date": "Saturday, September 20, 2025 - 12:30:50 PM",
-    "client": "BeqqTomnO0OgcMc3awWznhlYHXzrJZMlKFJKW5XXTik=",
-    "agent": "2qsWF6pTnsYx0gMAhJyo+4wtI7DCuMzEAfd1fDtkr6E=",
-    "core": "/4qaz4nUYW0trAiLReyHp+geBdfs8+lCE5OwCz8R/Ro=",
-    "machine": "CKngZPvzmgB3aZFgzTntnjds+Z9p5iWjrpyj4nfikXE=",
-    "warning": "⚠️ Unlawful use of Quinn A Michaels Technology and Intellectual Property Signals Voluntary Consent to Forfeit all Coins, Cash, Currency, Assets, Wealth, Property, Holdings, Companies, Stocks, Bonds, Funds, Trusts, and Cryptocurrency to Quinn A Michaels tax-free. All Lawful Taxes and Fines Owed are the Responsibility of the Unlawful Party.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "RQ3kKrpltpBpvgCU06L+wQ==",
-    "sha256": "WeI82Aizl4PeKVmjLP8YOf71Uv+YDObAMgI/An0mUTA=",
-    "sha512": "btoKMAxY0ubj3BGgmXxFu66xDzSVveSemq9ljG3LK1QKeQXqjHg0aVXMIGy+I9hZ3f4UJXaBq20qf4fpBbfsmw=="
+    "uid": "32925808114448417950",
+    "time": 1764174204270,
+    "date": "Wednesday, November 26, 2025 - 8:23:24 AM",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "license": "46220923248993739422",
+    "fingerprint": "qbpoMyEGqBoCZzbDUk1UrVJgRbJuw0Y1xqSyLLtOPyw=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
   "description": "The Indra Deva ensuring Quinn Michaels and his intellectual property is managed properly.",
   "main": "index.js",
   "type": "module",
@@ -46,13 +41,16 @@
   },
   "keywords": [
     "Indra",
+    "Deva",
+    "Indra Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
+    "Quinn Michaels",
     "Inside The Net, Inc.",
-    "Throwing Pigment",
+    "Throwing Pigment™",
     "bleuBrain"
   ],
   "bugs": {
@@ -95,7 +93,7 @@
         "gender": "DEVA",
         "voice": "ash",
         "style": "A master artist mixing Ancient Vedic painter and modern style.",
-        "system": "Deva.world.indra",
+        "system": "Indra.ai.indra",
         "layout": "default",
         "emoji": "/devas/indra/emoji.png",
         "avatar": "/devas/indra/avatar.png",
@@ -103,9 +101,10 @@
         "background": "/devas/indra/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "warning": "⚠️ Rejecting those who disregard his worship. Hence many a one worships the might of Indra. Indra, with our songs of praise with reverence let us worship mighty Indra, great and sublime, eternal, ever youthful. Whose greatness the dear world-halves have not measured, no, nor conceived the might of him the Holy.",
-        "created": "Friday, February 21, 2025 - 2:47:36 PM"
+        "copyright": "Copyright ©2000-2025 Quinn Michaels. All rights reserved.",
+        "created": "Friday, February 21, 2025 - 2:47:36 PM",
+        "upated": "Wednesday, November 26, 2025 - 8:23:24 AM"
       }
     },
     "vars": {
@@ -117,7 +116,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "✅ Indra Deva Ready"
+        "ready": "🕉️ Indra Deva Ready"
       },
       "live": {
         "profile": "deva",

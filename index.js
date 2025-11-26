@@ -1,7 +1,9 @@
 "use strict";
-// Copyright ©2025 Quinn A Michaels; All rights reserved. 
+// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
-// Distributed under VLA:46962689386148347494 LICENSE.md
+// Distributed under VLA:32925808114448417950 LICENSE.md
+// Wednesday, November 26, 2025 - 8:23:24 AM
+
 // Indra Deva
 
 import Deva from '@indra.ai/deva';
@@ -28,7 +30,7 @@ const info = {
   copyright: pkg.copyright
 };
 
-const INDRA = new Deva({
+const IndraDeva = new Deva({
   info,
   agent,
   vars,
@@ -49,7 +51,7 @@ const INDRA = new Deva({
     // return this.start if license_check passes otherwise stop.
     return license_check ? this.start(data, resolve) : this.stop(data, resolve);
   }, 
-  async onReady(data, resolve) {
+  onReady(data, resolve) {
     const {VLA} = this.info();
     this.prompt(`${this.vars.messages.ready} > VLA:${VLA.uid}`);
     return resolve(data);
@@ -60,4 +62,4 @@ const INDRA = new Deva({
     return reject(err);
   },
 });
-export default INDRA
+export default IndraDeva

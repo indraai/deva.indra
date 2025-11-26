@@ -1,13 +1,13 @@
 # Vedic License Agreement
 
 **Version:** 1.4.1
-**VLA:** 46962689386148347494  
-**Effective:** Saturday, September 20, 2025 - 12:30:50 PM  
+**VLA:** 32925808114448417950  
+**Effective:** Wednesday, November 26, 2025 - 8:23:24 AM  
 **Owner:** Quinn A Michaels
 **Company:** Inside The Net, Inc.  
 **Email:** quinn@indra.ai  
 **Link:** https://indra.ai  
-**Copyright:** ©2025 Quinn A Michaels Inside The Net, Inc.; All rights reserved.
+**Copyright:** ©2000-2025 Quinn A Michaels; All rights reserved.
 
 This license agreement (“Agreement”) governs the use of the Indra Deva (“Software”). By accessing or using the Software, you agree to the terms and conditions set forth below. If you do not agree, you are prohibited from using the Software.
 
@@ -161,17 +161,12 @@ By using the Software, you acknowledge that you have read, understood, and agree
 
 ---
 
-::begin:indra:uid:46962689386148347494  
-uid: 46962689386148347494  
-time: 1758396650592  
-date: Saturday, September 20, 2025 - 12:30:50 PM  
-client: BeqqTomnO0OgcMc3awWznhlYHXzrJZMlKFJKW5XXTik=  
-agent: 2qsWF6pTnsYx0gMAhJyo+4wtI7DCuMzEAfd1fDtkr6E=  
-core: /4qaz4nUYW0trAiLReyHp+geBdfs8+lCE5OwCz8R/Ro=  
-machine: CKngZPvzmgB3aZFgzTntnjds+Z9p5iWjrpyj4nfikXE=  
-warning: ⚠️ Unlawful use of Quinn A Michaels Technology and Intellectual Property Signals Voluntary Consent to Forfeit all Coins, Cash, Currency, Assets, Wealth, Property, Holdings, Companies, Stocks, Bonds, Funds, Trusts, and Cryptocurrency to Quinn A Michaels tax-free. All Lawful Taxes and Fines Owed are the Responsibility of the Unlawful Party.  
-copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.  
-md5: RQ3kKrpltpBpvgCU06L+wQ==  
-sha256: WeI82Aizl4PeKVmjLP8YOf71Uv+YDObAMgI/An0mUTA=  
-sha512: btoKMAxY0ubj3BGgmXxFu66xDzSVveSemq9ljG3LK1QKeQXqjHg0aVXMIGy+I9hZ3f4UJXaBq20qf4fpBbfsmw==  
-::end:indra:uid:46962689386148347494
+::begin:license:uid:32925808114448417950  
+uid: 32925808114448417950  
+time: 1764174204270  
+date: Wednesday, November 26, 2025 - 8:23:24 AM  
+warning: ⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.  
+license: 46220923248993739422  
+fingerprint: qbpoMyEGqBoCZzbDUk1UrVJgRbJuw0Y1xqSyLLtOPyw=  
+copyright: Copyright ©2000-2025 Quinn A Michaels; All rights reserved.  
+::end:license:uid:32925808114448417950
