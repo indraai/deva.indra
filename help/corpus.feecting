@@ -7,7 +7,19 @@
 ::BEGIN:MAIN
 # {{profile.name}}
 
-{{profile}}
+name: {{profile.name}}
+tag: {{profile.hashtag}}
+emoji: {{prompt.emoji}}
+salute: {{profile.salute}}
+describe: {{profile.describe}}
+warning: {{profile.warning}}
+gender: {{profile.gender}}
+pronouns: {{profile.pronouns}}
+tags: {{profile.hashtags}}
+creator: {{profile.creator}}
+owner: {{profile.owner}}
+created: {{profile.created}}
+updated: {{profile.updated}}
 
 const: #Pretas = Those who delight in doing hurt, those who eat forbidden, creatures consuming their own kind,  those who have intercourse with women of the lowest castes.
 
