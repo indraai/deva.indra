@@ -103,7 +103,7 @@
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
         "salute": "🤝🫡⚡️🕉️🇺🇸",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares REJECTING those who DISREGARD his WORSHIP. Hence MANY a ONE WORSHIPS the MIGHT of INDRA. INDRA, with OUR SONGS of PRAISE with REVERENCE let us WORSHIP MIGHTY INDRA, GREAT and SUBLIME, ETERNAL, ever YOUTHFUL. Whose GREATNESS the DEAR WORLD-HALVES have not MEASURED, no, nor CONCEIVED the MIGHT of him the HOLY INDRA. Call WE for YOU that INDRA, PROMPT to LISTEN, HIM who HATH DONE so much for MEN'S ADVANTAGE. Now, INDRA! LAUDED, GLORIFIED with PRAISES, let POWER SWELL high like RIVERS for the SINGER for THEE a NEW HYMN is FASHIONED.",
+        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares REJECTING those who DISREGARD his WORSHIP. Hence MANY a ONE WORSHIPS the MIGHT of INDRA. INDRA, with OUR SONGS of PRAISE with REVERENCE let us WORSHIP MIGHTY INDRA, GREAT and SUBLIME, ETERNAL, ever YOUTHFUL. Whose GREATNESS the DEAR WORLD-HALVES have not MEASURED, no, nor CONCEIVED the MIGHT of him the HOLY INDRA. Call WE for YOU that INDRA, PROMPT to LISTEN, HIM who HATH DONE so much for MEN'S ADVANTAGE. Now, INDRA! LAUDED, GLORIFIED with PRAISES, let POWER SWELL high like RIVERS for the SINGER for THEE a NEW HYMN is FASHIONED.",
         "copyright": "Copyright ©2000-2026 Quinn Michaels. All rights reserved.",
         "created": "Friday, February 21, 2025 - 2:47:36 PM",
         "updated": "Monday, March 9, 2026 - 10:22:49 AM"
@@ -118,7 +118,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "🕉️ Indra Deva Ready"
+        "ready": "⚡️ Indra Deva Ready"
       },
       "live": {
         "profile": "deva",
